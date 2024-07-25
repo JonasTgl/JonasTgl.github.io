@@ -1878,7 +1878,7 @@ svg {
 .theme-dark .sidebar_a4d4d9 .content_eed6a8:after {
     content: "Neko's Chillax" ;
     font-size: 13px;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgb(255, 255, 255);
     text-align: center;
     text-shadow: 0 0 15px #000;
     margin-top: 50px;
